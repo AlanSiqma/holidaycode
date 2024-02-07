@@ -15,7 +15,6 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 ## PROGRAMAÇÃO 
 
 ### 18:00 - 18:15: Registro e Breve Introdução
-- Chegada dos participantes e registro.
 - Breve introdução ao evento e seus objetivos.
 
 ### 18:15 - 18:45: Introdução ao Desenvolvimento com .NET e MVC
