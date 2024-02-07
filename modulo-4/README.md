@@ -1,12 +1,12 @@
 # Holiday Code
 ## FALA GALERA, TUDO CERTO?
 
-O HOLIDAY CODE É UM EVENTO ONLINE E GRATUITO AGENDADO PARA O DIA 20 DE FEVEREIRO, NO QUAL VOCÊ TERÁ A CHANCE DE DESENVOLVER UMA APLICAÇÃO COMPLETA, DESDE O INÍCIO ATÉ O FIM
+O Holiday Code é um evento online e gratuito agendado para o dia 20 de fevereiro. Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
 [GARANTIR MINHA VAGA](https://bit.ly/496PnTh)
 
 ## SUA PRESENÇA É IMPORTANTE
 
-O PORTFÓLIO DE QUALQUER DESENVOLVEDOR É O GITHUB, E PARTICIPAR DE PROJETOS COMO OS QUE SERÃO DESENVOLVIDOS NO HOLIDAY CODE PODE SIGNIFICATIVAMENTE APRIMORAR SEU PERFIL.
+O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos como os que serão desenvolvidos no Holiday Code pode significativamente aprimorar seu perfil. 
 
-SE VOCÊ ESTÁ BUSCANDO OPORTUNIDADES NO MERCADO, UMA REALOCAÇÃO PROFISSIONAL OU DESEJA AUMENTAR SUA VISIBILIDADE NAS REDES, ESTA É A CHANCE PERFEITA PARA VOCÊ.
+Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
