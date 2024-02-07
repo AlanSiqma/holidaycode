@@ -14,28 +14,32 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 ## PROGRAMAÇÃO 
 
-### 18:00 - 18:15: Registro e Breve Introdução
+### Módulo 1: Introdução e Início do Desenvolvimento
+#### 18:00 - 18:15: Registro e Breve Introdução
+- Chegada dos participantes e registro.
 - Breve introdução ao evento e seus objetivos.
 
-### 18:15 - 18:45: Introdução ao Desenvolvimento com .NET e MVC
+#### 18:15 - 19:15: Introdução ao Desenvolvimento com .NET e MVC
 - Apresentação sobre .NET, MVC e a estrutura do evento.
-
-### 18:45 - 19:15: Criação do Primeiro Projeto
 - Início do desenvolvimento do primeiro projeto, com orientações sobre os conceitos básicos.
 
-### 19:15 - 19:30: Coffee Break e Networking
-
-### 19:30 - 20:00: Continuação do Desenvolvimento do Primeiro Projeto
+### Módulo 2: Desenvolvimento do Primeiro Projeto
+#### 19:15 - 20:15: Continuação do Desenvolvimento do Primeiro Projeto
 - Tempo adicional para os participantes trabalharem em seus projetos.
 
-### 20:00 - 20:30: Introdução ao Entity Framework Core
+#### 20:15 - 20:30: Coffee Break e Networking
+
+### Módulo 3: Introdução ao Entity Framework Core e Projeto Avançado
+#### 20:30 - 21:00: Introdução ao Entity Framework Core
 - Palestra sobre o Entity Framework Core e sua integração com projetos .NET.
 
-### 20:30 - 21:00: Desenvolvimento do Projeto MVC .NET 7
+#### 21:00 - 21:30: Desenvolvimento do Projeto MVC .NET 7
 - Início do desenvolvimento do projeto MVC mais avançado, integrando o Entity Framework Core.
 
-### 21:00 - 21:30: Publicação da Aplicação em Hospedagem Compartilhada
-- Demonstração e orientação sobre como publicar a aplicação em um serviço de hospedagem compartilhada, como a Kinghost.
+### Módulo 4: Publicação no GitHub e Encerramento
+#### 21:30 - 22:00: Publicação do Projeto no GitHub
+- Orientação sobre como criar um repositório no GitHub e enviar o código-fonte do projeto.
+- Discussão sobre boas práticas de versionamento e colaboração.
 
-### 21:30: Encerramento
+#### 22:00: Encerramento
 - Agradecimentos finais, feedback dos participantes e informações sobre próximos eventos.
