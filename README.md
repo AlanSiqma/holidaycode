@@ -12,7 +12,7 @@ O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos com
 Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
 
 
-## Programação 
+## PROGRAMAÇÃO 
 
 ### 18:00 - 18:15: Registro e Breve Introdução
 - Chegada dos participantes e registro.
