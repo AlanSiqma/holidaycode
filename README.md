@@ -15,8 +15,7 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 ## PROGRAMAÇÃO 
 
 ### Módulo 1: Introdução e Início do Desenvolvimento
-#### 18:00 - 18:15: Registro e Breve Introdução
-- Chegada dos participantes e registro.
+#### 18:00 - 18:15: Breve Introdução
 - Breve introdução ao evento e seus objetivos.
 
 #### 18:15 - 19:15: Introdução ao Desenvolvimento com .NET e MVC
