@@ -29,10 +29,39 @@ No terminal digite o comando
 dotnet new mvc -n MinhaPrimeiraApllicacaoWeb
 ```
 
-
 ## Terceiro passo
 Agora que a aplicação foi criada, podemos acessar a pasta digitando
 ```
 cd MinhaPrimeiraApllicacaoWeb
 ```
-...
+## Quarto passo
+Digite o comando 
+```
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+```
+Depois
+```
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+```
+Isso vai fazer com que seja adicionado dois pacotes no projeto
+
+## Quinto passo
+Adicione as classes que quer manipular
+
+## Sexto passo
+Configure o Contexto e a string de conexão
+
+## Setimo passo
+Manipule os objetos criados com a operação CRUD
+
+## Oitavo passo
+Execute a aplicação com o comando 
+```
+dotnet run
+```
+
+
+
+
+
+
