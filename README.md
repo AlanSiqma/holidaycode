@@ -35,9 +35,10 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 #### 21:00 - 21:30: Desenvolvimento do Projeto MVC .NET 7
 - Início do desenvolvimento do projeto MVC mais avançado, integrando o Entity Framework Core.
 
-### Módulo 4: Publicação no GitHub e Encerramento
+### Módulo 4: Publicação no GitHub e Publicação da Aplicação em Hospedagem Compartilhada
 #### 21:30 - 22:00: Publicação do Projeto no GitHub
 - Orientação sobre como criar um repositório no GitHub e enviar o código-fonte do projeto.
+- Demonstração e orientação sobre como publicar a aplicação em um serviço de hospedagem compartilhada, como a Kinghost.
 - Discussão sobre boas práticas de versionamento e colaboração.
 
 #### 22:00: Encerramento
