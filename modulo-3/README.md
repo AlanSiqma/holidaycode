@@ -17,7 +17,7 @@ Git é o super-herói que mantém tudo organizado, e o GitHub é a festa onde to
 
 - Baixar o Git 🫡
 - [Instale aqui](https://git-scm.com/downloads)
-- Criar uma conta no GitHub
+- Criar uma conta no GitHub 🫡
 - [Crie aqui](https://github.com/)
   
 ## Primeiro passo 

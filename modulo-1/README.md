@@ -70,7 +70,4 @@ Troque a mensagem `"Hello, World!"` que está dentro do arquivo `Program.cs`, e 
 ```
 dotnet run 
 ```
-## Fim
-Você agora fez um fluxo para a criação de uma aplicação em .net
 
-Que tal aumentarmos um pouco a complexidade?

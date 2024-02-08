@@ -1,42 +1,63 @@
-# Holiday Code
-## FALA GALERA, TUDO CERTO?
+# Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
+## Vamos começar então 
+### Analogia Residencial para Entender Hospedagem Web: O Endereço da Sua Aplicação na Internet
 
-O Holiday Code é um evento online e gratuito agendado para o dia 20 de fevereiro. Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
+Vamos simplificar o mundo complexo da hospedagem web com uma analogia residencial. Imagine que sua aplicação é como uma casa, e assim como você mora em algum lugar, sua aplicação também precisa de um local para "morar" na web. Chamamos esse local de hospedagem.
 
-[GARANTIR MINHA VAGA](https://bit.ly/496PnTh)
+### O Paralelo Residencial:
 
-## SUA PRESENÇA É IMPORTANTE
+### Endereço da Sua Casa (Endereço IP):
 
-O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos como os que serão desenvolvidos no Holiday Code pode significativamente aprimorar seu perfil. 
+Assim como sua casa tem um endereço físico, sua aplicação na web possui um endereço chamado endereço IP. É um conjunto de números que identifica única e diretamente onde sua aplicação está localizada.
 
-Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
+### Associando um Nome ao Endereço (Registro de Domínio):
+
+Imagina ter que decorar uma série de números toda vez que quiser visitar um amigo? Não é prático. O mesmo se aplica à sua aplicação web. Em vez de números (endereço IP), associamos um nome, conhecido como domínio, ao endereço. Isso é como colocar um número em sua casa, mas seus amigos usam seu nome. Esse é o famoso registro de domínio.
+
+### Na Prática:
+
+Quando alguém digita o nome do seu domínio (como www.suaaplicacao.com) em um navegador, esse nome é traduzido para o endereço IP real, apontando para onde sua aplicação está hospedada.
+
+### Principais Termos:
+
+- **Endereço IP:** O endereço numérico único associado à localização física da sua aplicação na web.
+- **Registro de Domínio:** Associar um nome (domínio) ao endereço IP, facilitando a localização da sua aplicação.
+
+### Entendendo o Conceito:
+
+Assim como você dá seu endereço a amigos para que possam te visitar, um domínio é compartilhado para que as pessoas possam encontrar e acessar sua aplicação na web.
+
+Com essa analogia, espero que a complexidade da hospedagem web pareça mais acessível. Pronto para dar uma "casa" à sua aplicação na internet? 🏡🌐
 
 
-## Programação 
+### Vamos iniciar?
 
-### 18:00 - 18:15: Registro e Breve Introdução
-- Chegada dos participantes e registro.
-- Breve introdução ao evento e seus objetivos.
+- Baixar o file zila 🫡
+- [Instale aqui](https://filezilla-project.org/download.php)
+- Comprar um dominio 🫡
+- [Compre aqui](https://www.namecheap.com/)
+- Ter um serviço de hospedagem 🫡
+- [Contrate aqui](https://king.host?ref=8AB4AD2BA3C56)
 
-### 18:15 - 18:45: Introdução ao Desenvolvimento com .NET e MVC
-- Apresentação sobre .NET, MVC e a estrutura do evento.
+## Primeiro passo 
+Compre um dominio
 
-### 18:45 - 19:15: Criação do Primeiro Projeto
-- Início do desenvolvimento do primeiro projeto, com orientações sobre os conceitos básicos.
+## Segundo passo 
+Contrate um serviço de hospedagem
 
-### 19:15 - 19:30: Coffee Break e Networking
+## Terceiro passo 
+Publique a aplicação usando o comando 
+```
+dotnet publish
+```
 
-### 19:30 - 20:00: Continuação do Desenvolvimento do Primeiro Projeto
-- Tempo adicional para os participantes trabalharem em seus projetos.
+## Quarto passo 
+Acesse a hospedagem com o File Zila
 
-### 20:00 - 20:30: Introdução ao Entity Framework Core
-- Palestra sobre o Entity Framework Core e sua integração com projetos .NET.
+## Quinto passo 
+Acesse a aplicação no navegador 
 
-### 20:30 - 21:00: Desenvolvimento do Projeto MVC .NET 7
-- Início do desenvolvimento do projeto MVC mais avançado, integrando o Entity Framework Core.
+## Fim
+Parabéns! 🎉
 
-### 21:00 - 21:30: Publicação da Aplicação em Hospedagem Compartilhada
-- Demonstração e orientação sobre como publicar a aplicação em um serviço de hospedagem compartilhada, como a Kinghost.
-
-### 21:30: Encerramento
-- Agradecimentos finais, feedback dos participantes e informações sobre próximos eventos.
+Você concluiu o Holiday Code! Que conquista incrível! 🌟 Espero que tenha sido uma experiência empolgante e enriquecedora para você. Agora é hora de comemorar e refletir sobre tudo que aprendeu durante este desafio. Continue cultivando sua paixão pela codificação e nunca deixe de buscar novos desafios. Estou aqui para ajudar sempre que precisar. Continue brilhando! 💻✨
