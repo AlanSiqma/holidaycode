@@ -11,6 +11,7 @@ O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos com
 
 Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
 
+[Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
 
 ## PROGRAMAÇÃO 
 
