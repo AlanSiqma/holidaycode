@@ -1,4 +1,4 @@
-# Holiday Code
+# Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
 ## FALA GALERA, TUDO CERTO?
 
 O Holiday Code é um evento online e gratuito agendado para o dia 20 de fevereiro. Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
