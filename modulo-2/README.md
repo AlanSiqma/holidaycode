@@ -1,76 +1,44 @@
 # Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
 ## Vamos começar então 
 ### O que é Entity Framework Core?
-Ei, já ouviu falar do .NET? É tipo essa plataforma de aplicativos que a galera da Microsoft fez, e é de graça e aberta pra todo mundo usar. É tipo super segura, confiável e rápida, sabe? Como o carro esportivo dos aplicativos!
+Ei, já ouviu falar do Entity Framework (EF) Core? É tipo uma versão mais leve, estilosa e moderninha do famoso EF, que é uma tecnologia de acesso a dados.
 
-E aí tem essa linguagem chamada C#, é tipo o idioma oficial do .NET. É meio chique, sabe? Fortemente tipada, o que significa que ela não deixa você fazer muita bagunça (mas às vezes é bom, né?). Ah, e o legal é que ela já vem com umas coisas pra lidar com várias tarefas ao mesmo tempo e pra cuidar da memória pra você, tipo um mordomo de luxo pro seu código.
+O EF Core é tipo um faz-tudo, sabe? Ele serve como um mapeador objeto-relacional (O/RM), o que significa que os devs de .NET podem brincar com um banco de dados usando objetos do próprio .NET. Isso acaba com aquele monte de código chato que a gente sempre tem que escrever só pra mexer nos dados.
+
+E o melhor é que o EF Core é amigo de muitos motores de banco de dados por aí.
 
 
 ### Vamos iniciar?
 
-- Visual Studio Code instalado 🫡
-- [Instale aqui](https://code.visualstudio.com/download)
-- SDK do .net 8.0 instalado 🫡
-- [Instale aqui](https://dotnet.microsoft.com/en-us/download)
+
+- SDK do .net 7.0 instalado 🫡
+- [Instale aqui](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
   
 ## Primeiro passo 
-Abra o cmd e digite 
-```
-dotnet --version
-```
-Deu erro? então falta uma configuração ai camarada 🫣
-
-## Segundo passo
-Ainda no cmd digite: 
-```
-mkdir holidaycode
-```
-e depois digite o comando 
+Via cmd vá para a pasta holidaycode e digite 
 ```
 code .
 ```
-Deu erro? então falta uma configuração ai camarada 🫣
+Abra o terminal do vs code: Para abrir o terminal no Visual Studio Code, digite Ctrl + ' ou vá em View>Terminal.
+Digite o seguinte comando:
+```
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+```
+E depois 
+```
+dotnet tool install --global dotnet-ef
+```
+
+## Segundo passo
+No terminal digite o comando 
+```
+dotnet new mvc -n MinhaPrimeiraApllicacaoWeb
+```
+
 
 ## Terceiro passo
-Olha ai, você abriu o visual studio code (carinhosamente o chamamos de vs code) 
-Abra o terminal do vs code: Para abrir o terminal no Visual Studio Code, digite Ctrl + ' ou vá em View>Terminal`.
-
-## Quarto passo
-No terminal digite o comando 
-```
-dotnet new list
-```
-Será listado varias opções para criarmos nossa aplicação, vamos focar no console primeiramente
-
-## Quinto passo
-No terminal digite o comando 
-```
-dotnet new console -h
-```
-Nele aparecerão as opções referentes ao console 
-
-## Sexto passo
-No terminal digite o comando 
-```
-dotnet new console -n MinhaPrimeiraApllicacao
-```
-Agora sim, será criado a nossa aplicação em .net 8.0
-
-## Setimo passo
 Agora que a aplicação foi criada, podemos acessar a pasta digitando
 ```
-cd MinhaPrimeiraApllicacao
+cd MinhaPrimeiraApllicacaoWeb
 ```
-no menu laterel o vs code você visualizá o arquivo chamado `Program.cs`, nele estão as instruções em C# que serão executadas ao digitarmos no terminal
-```
-dotnet run 
-```
-## Oitavo passo
-Troque a mensagem `"Hello, World!"` que está dentro do arquivo `Program.cs`, e execute o comando 
-```
-dotnet run 
-```
-## Fim
-Você agora fez um fluxo para a criação de uma aplicação em .net
-
-Que tal aumentarmos um pouco a complexidade?
+...
