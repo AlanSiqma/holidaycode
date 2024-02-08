@@ -10,7 +10,6 @@ E o melhor é que o EF Core é amigo de muitos motores de banco de dados por aí
 
 ### Vamos iniciar?
 
-
 - SDK do .net 7.0 instalado 🫡
 - [Instale aqui](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
   
@@ -20,11 +19,6 @@ Via cmd vá para a pasta holidaycode e digite
 code .
 ```
 Abra o terminal do vs code: Para abrir o terminal no Visual Studio Code, digite Ctrl + ' ou vá em View>Terminal.
-Digite o seguinte comando:
-```
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-```
-E depois 
 ```
 dotnet tool install --global dotnet-ef
 ```
