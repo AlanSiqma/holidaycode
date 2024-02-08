@@ -9,9 +9,10 @@ E aí tem essa linguagem chamada C#, é tipo o idioma oficial do .NET. É meio c
 ### Vamos iniciar?
 
 - Visual Studio Code instalado 🫡
-
+- [Instale aqui](https://code.visualstudio.com/download)
 - SDK do .net 8.0 instalado 🫡
-
+- [Instale aqui](https://dotnet.microsoft.com/en-us/download)
+  
 ## Primeiro passo 
 Abra o cmd e digite 
 ```
