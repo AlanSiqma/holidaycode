@@ -23,24 +23,23 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 - Apresentação sobre .NET, MVC e a estrutura do evento.
 - Início do desenvolvimento do primeiro projeto, com orientações sobre os conceitos básicos.
 
-### Módulo 2: Desenvolvimento do Primeiro Projeto
-#### 19:15 - 20:15: Continuação do Desenvolvimento do Primeiro Projeto
-- Tempo adicional para os participantes trabalharem em seus projetos.
+### Módulo 2: Introdução ao Entity Framework Core e Projeto Avançado
+#### 19:15 - 19:45: Introdução ao Entity Framework Core
+- Palestra sobre o Entity Framework Core e sua integração com projetos .NET.
+
+#### 19:45 - 20:15: Desenvolvimento do Projeto MVC .NET 7
+- Início do desenvolvimento do projeto MVC mais avançado, integrando o Entity Framework Core.
 
 #### 20:15 - 20:30: Coffee Break e Networking
 
-### Módulo 3: Introdução ao Entity Framework Core e Projeto Avançado
-#### 20:30 - 21:00: Introdução ao Entity Framework Core
-- Palestra sobre o Entity Framework Core e sua integração com projetos .NET.
-
-#### 21:00 - 21:30: Desenvolvimento do Projeto MVC .NET 7
-- Início do desenvolvimento do projeto MVC mais avançado, integrando o Entity Framework Core.
-
-### Módulo 4: Publicação no GitHub e Publicação da Aplicação em Hospedagem Compartilhada
+### Módulo 3: Publicação no GitHub
 #### 21:30 - 22:00: Publicação do Projeto no GitHub
 - Orientação sobre como criar um repositório no GitHub e enviar o código-fonte do projeto.
-- Demonstração e orientação sobre como publicar a aplicação em um serviço de hospedagem compartilhada, como a Kinghost.
 - Discussão sobre boas práticas de versionamento e colaboração.
+
+### Módulo 4: Publicação da Aplicação em Hospedagem Compartilhada
+#### 21:30 - 22:00: Publicação da Aplicação em Hospedagem Compartilhada
+- Demonstração e orientação sobre como publicar a aplicação em um serviço de hospedagem compartilhada, como a Kinghost.
 
 #### 22:00: Encerramento
 - Agradecimentos finais, feedback dos participantes e informações sobre próximos eventos.
