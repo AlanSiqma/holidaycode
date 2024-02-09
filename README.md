@@ -15,3 +15,4 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 [Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
 
 [Programação](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
+
