@@ -16,3 +16,6 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Programação](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
 
+[Facebook](https://www.facebook.com/eventoholidaycode)
+
+[Intagram](https://www.instagram.com/eventoholidaycode?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
