@@ -26,7 +26,7 @@ dotnet tool install --global dotnet-ef
 ## Segundo passo
 No terminal digite o comando 
 ```
-dotnet new mvc -n MinhaPrimeiraApllicacaoWeb
+dotnet new mvc -n MinhaPrimeiraApllicacaoWeb --framework net7.0
 ```
 
 ## Terceiro passo
@@ -37,13 +37,21 @@ cd MinhaPrimeiraApllicacaoWeb
 ## Quarto passo
 Digite o comando 
 ```
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore --version 7.0.15
 ```
 Depois
 ```
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 7.0.15
 ```
-Isso vai fazer com que seja adicionado dois pacotes no projeto
+Depois
+```
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 7.0.15
+```
+Depois
+```
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 7.0.15
+```
+Isso vai fazer com que seja adicionado quatro pacotes no projeto
 
 ## Quinto passo
 Adicione as classes que quer manipular
@@ -55,6 +63,15 @@ Configure o Contexto e a string de conexão
 Manipule os objetos criados com a operação CRUD
 
 ## Oitavo passo
+Crie uma migração para realizar as criação das configurações no banco de dados
+executando os comandos:
+```
+dotnet ef migrations add InitialCreate
+```
+```
+dotnet ef database update
+```
+## Nono passo
 Execute a aplicação com o comando 
 ```
 dotnet run

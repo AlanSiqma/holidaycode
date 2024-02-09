@@ -1,0 +1,52 @@
+﻿@model MinhaPrimeiraApllicacaoWeb.Models.ProdutoModel
+<h1>Criar</h1>
+<h4>Novo espaço</h4>
+<hr />
+<form asp-action="Criar">
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-sm-12 col-md-12">
+            <label asp-for="Nome" class="control-label"></label>
+            <input asp-for="Nome" class="form-control" />
+            <span asp-validation-for="Nome" class="text-danger"></span>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <label class="control-label">Descrição</label>
+            <input asp-for="Descricao" class="form-control" />
+            <span asp-validation-for="Descricao" class="text-danger"></span>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <label class="control-label">Preço</label>
+            <input asp-for="Preco" class="form-control" />
+            <span asp-validation-for="Preco" class="text-danger"></span>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <div class="form-check">
+                <div class="checkbox">
+                    <label asp-for="EstaAtivo">
+                        <input asp-for="EstaAtivo" />
+                        Esta Ativo?
+                    </label>
+                </div>
+            </div>
+            <span asp-validation-for="EstaAtivo" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row row-site">
+        <div class="col">
+            <a class="btn btn-info w-100 btn-site" asp-action="Listar">
+                <i class="fa fa-backward"></i>  Voltar
+            </a>
+        </div>
+        <div class="col">
+            <button type="submit" value="Create" class="btn btn-success w-100 btn-site">
+                <i class="fa fa-save"></i> Salvar
+            </button>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
