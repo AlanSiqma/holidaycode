@@ -61,7 +61,7 @@ Agora que a aplicação foi criada, podemos acessar a pasta digitando
 ```
 cd MinhaPrimeiraApllicacao
 ```
-no menu laterel o vs code você visualizá o arquivo chamado `Program.cs`, nele estão as instruções em C# que serão executadas ao digitarmos no terminal
+no menu lateral do vs code você visualizá o arquivo chamado `Program.cs`, nele estão as instruções em C# que serão executadas ao digitarmos no terminal
 ```
 dotnet run 
 ```
