@@ -41,7 +41,7 @@ dotnet add package Microsoft.EntityFrameworkCore --version 7.0.15
 ```
 Depois
 ```
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 7.0.15
 ```
 Depois
 ```
