@@ -10,8 +10,8 @@ E o melhor é que o EF Core é amigo de muitos motores de banco de dados por aí
 
 ### Vamos iniciar?
 
-- SDK do .net 7.0 instalado 🫡
-- [Instale aqui](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- SDK do .net 6.0 instalado 🫡
+- [Instale aqui](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
   
 ## Primeiro passo 
 Via cmd vá para a pasta holidaycode e digite 
@@ -26,7 +26,7 @@ dotnet tool install --global dotnet-ef
 ## Segundo passo
 No terminal digite o comando 
 ```
-dotnet new mvc -n MinhaPrimeiraApllicacaoWeb --framework net7.0
+dotnet new mvc -n MinhaPrimeiraApllicacaoWeb --framework net6.0
 ```
 
 ## Terceiro passo
@@ -37,19 +37,19 @@ cd MinhaPrimeiraApllicacaoWeb
 ## Quarto passo
 Digite o comando 
 ```
-dotnet add package Microsoft.EntityFrameworkCore --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore --version 6.0.27
 ```
 Depois
 ```
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0.27
 ```
 Depois
 ```
-dotnet add package Microsoft.EntityFrameworkCore.Design --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0.27
 ```
 Depois
 ```
-dotnet add package Microsoft.EntityFrameworkCore.Tools --version 7.0.15
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.27
 ```
 Isso vai fazer com que seja adicionado quatro pacotes no projeto
 
