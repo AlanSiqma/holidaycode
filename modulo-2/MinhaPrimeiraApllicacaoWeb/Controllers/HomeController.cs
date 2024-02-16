@@ -92,7 +92,6 @@ public class HomeController : Controller
         return View(produto);
     }
 
-    [HttpPost]
     public async Task<IActionResult> Deletar(int id)
     {
         var produto = await _context.Produtos.FindAsync(id);
