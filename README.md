@@ -4,7 +4,7 @@
 O Holiday Code é um evento online e gratuito.
 Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
-[GARANTIR MINHA VAGA](https://bit.ly/496PnTh)
+[GARANTIR MINHA VAGA](https://www.even3.com.br/holidaycode/)
 
 ## SUA PRESENÇA É IMPORTANTE
 
