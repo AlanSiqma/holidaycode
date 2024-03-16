@@ -3,7 +3,7 @@
 
 O Holiday Code é um evento gratuito realizado em alguns feriados. Nele, além de preparar o seu portfólio, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
-[GARANTIR MINHA VAGA](https://don7.short.gy/)
+[GARANTIR MINHA VAGA](https://www.even3.com.br/holidaycode/)
 
 ## SUA PRESENÇA É IMPORTANTE
 
