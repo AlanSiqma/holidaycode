@@ -1,22 +1,18 @@
 # Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
-## FALA GALERA, TUDO CERTO?
+## Introdução ao Git
 
-O Holiday Code é um evento gratuito realizado em alguns feriados. Nele, além de preparar o seu portfólio, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
+O Git é um repositorio para seu codigo, projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
 
-[GARANTIR MINHA VAGA](https://www.even3.com.br/holidaycode/)
+Para poder instalar o Git siga o passo a passo abaixo:
+[Veja o artigo aqui](https://alansiqma.substack.com/p/primeiros-passos-git)
 
-## SUA PRESENÇA É IMPORTANTE
+Ele fornece um arcabouço de comandos que podemos utilizar para manter os arquivos
 
-O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos como os que serão desenvolvidos no Holiday Code pode significativamente aprimorar seu perfil. 
+## Introdução ao GitHub
 
-Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
+GitHub é a rede social do seu codigo, quando instalamos o Git conseguimos gerenciar as versões do que estamos fazendo apenas no nosso computador, para que consegamos colaborar com outras pessoas, seja na empresa ou um codigo aberto, necessitamos de um servidor para centralizar as alterações que vão decorrendo do projeto, o GitHub fornece esse e outros serviços para o nosso código. 
 
-[Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
+Abaixo um artigo para você criar a sua conta e criar o primeiro repositorio de exemplo:
+[Veja o artigo aqui](https://alansiqma.substack.com/p/primeiros-passos-github)
 
-[Programação do 1º Evento](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
-
-Programação do 2º Evento (aguarde...)
-
-[Facebook](https://www.facebook.com/eventoholidaycode)
-
-[Intagram](https://www.instagram.com/eventoholidaycode?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+# Alguns comandos 
