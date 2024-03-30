@@ -28,3 +28,5 @@ Vamos agora colocar isso em prática no seu repositório!
 O seu perfil ficará semalhante a esse: 
 
 ![alt text](perfil-editado.png)
+
+[aqui](https://github.com/iuricode/readme-template) temos alguns modelos prontos...
