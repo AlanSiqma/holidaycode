@@ -1,22 +1,30 @@
 # Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
-## FALA GALERA, TUDO CERTO?
+## O que é um Portfólio no GitHub?
 
-O Holiday Code é um evento gratuito realizado em alguns feriados. Nele, além de preparar o seu portfólio, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
-[GARANTIR MINHA VAGA](https://www.even3.com.br/holidaycode/)
+No GitHub, um portfólio permite a organização do perfil e dos projetos de forma a projetar a imagem do indivíduo. É uma ferramenta valiosa para mostrar suas habilidades e experiências aos outros usuários da plataforma.
 
-## SUA PRESENÇA É IMPORTANTE
+Um caso peculiar é que ao criar sua conta no GitHub, a página inicial do seu perfil exibe um layout padrão:
 
-O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos como os que serão desenvolvidos no Holiday Code pode significativamente aprimorar seu perfil. 
+![alt text](perfil-sem-edicao.png)
 
-Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
+Após realizar as configurações padrões, é possível incrementar ainda mais a sua página. O GitHub oferece opções para personalizar seu perfil por meio de repositórios.
 
-[Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
+## Como fazer isso?
 
-[Programação do 1º Evento](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
+Ao criar um repositório com o nome do seu usuário, o GitHub projeta automaticamente o README deste repositório para sua página principal. Assim, todos que visitarem seu perfil visualizarão essa página modificada.
 
-Programação do 2º Evento (aguarde...)
+O README, neste contexto, é um arquivo de texto que geralmente acompanha um projeto de software ou repositório de código. Ele fornece informações essenciais sobre o projeto, como sua finalidade, instruções de instalação, configuração e uso, além de quaisquer outras informações relevantes que os usuários possam precisar.
 
-[Facebook](https://www.facebook.com/eventoholidaycode)
+No GitHub, o README de um repositório é exibido na página principal do repositório e pode ser personalizado pelos usuários para fornecer informações específicas sobre o projeto. Ele é escrito em formato de texto simples ou usando linguagens de marcação como Markdown, que permite adicionar formatação básica, como cabeçalhos, listas e links, tornando-o mais legível e organizado.
 
-[Intagram](https://www.instagram.com/eventoholidaycode?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+Assim, o README é uma parte fundamental da documentação do projeto e serve como um guia rápido para ajudar os usuários a entenderem o que é o projeto, como usá-lo e como contribuir para ele. Em muitos casos, o README é a primeira coisa que os usuários verão ao acessar um repositório, portanto, é importante que seja claro, conciso e informativo.
+
+
+### Mãos à obra!
+
+
+Vamos agora colocar isso em prática no seu repositório!
+O seu perfil ficará semalhante a esse: 
+
+![alt text](perfil-editado.png)
