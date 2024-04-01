@@ -13,11 +13,11 @@ Blazor é um framework de código aberto da Microsoft para criar aplicativos web
 
 1. **Instalação do SDK do .NET Core**: Certifique-se de ter o SDK do .NET instalado, de uma olhada [neste](https://alansiqma.substack.com/p/primeiros-passos-visual-studio-code) passo a passo.
 
-2. **Criar um novo projeto Blazor**: Use o comando `dotnet new blazorserver -o HolidayCodeApp` para criar um novo projeto Blazor Server.
+2. **Criar um novo projeto Blazor**: Use o comando `dotnet  new blazorwasm -o app --pwa` para criar um novo projeto Blazor Server.
 
-3. **Navegar até o diretório do projeto**: Use `cd HolidayCodeApp`.
+3. **Navegar até o diretório do projeto**: Use `cd app`.
 
-4. **Executar a aplicação**: Use `dotnet run` para iniciar a aplicação Blazor Server.
+4. **Executar a aplicação**: Use `dotnet run` para iniciar a aplicação Blazor.
 
 5. **Explorar a estrutura do projeto**: Arquivos como `Program.cs`, `Startup.cs`, e uma pasta `Pages` estarão presentes.
 
@@ -39,7 +39,7 @@ Este guia básico ajudará você a começar a desenvolver a aplicação HolidayC
 1. **Inicializar um repositório Git:**
 
    ```bash
-   cd Caminho/Para/HolidayCodeApp
+   cd Caminho/Para/App
    git init
    ```
 
