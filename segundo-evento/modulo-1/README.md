@@ -17,7 +17,7 @@ Para que o git monitore as alterações do diretorio que queremos nos temos que,
 ```
 git init
 ```
-se você estiver com a visualização dos aruivos ocultos da pasta podera ver que esse comando fez com que fosse criado uma pasta chamada .git
+se você estiver com a visualização dos arquivos ocultos da pasta podera ver que esse comando fez com que fosse criado uma pasta chamada .git
 
 vamos criar um arquivo .txt o que aparece
 
