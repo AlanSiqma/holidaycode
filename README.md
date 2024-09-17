@@ -11,7 +11,6 @@ O portfólio de qualquer desenvolvedor é o GitHub, e participar de projetos com
 
 Se você está buscando oportunidades no mercado, uma realocação profissional ou deseja aumentar sua visibilidade nas redes, esta é a chance perfeita para você.
 
-[Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
 
 [Programação do 1º Evento](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
 
@@ -20,3 +19,5 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 [Facebook](https://www.facebook.com/eventoholidaycode)
 
 [Intagram](https://www.instagram.com/eventoholidaycode?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
+[Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
