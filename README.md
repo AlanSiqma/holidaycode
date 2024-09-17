@@ -16,6 +16,8 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Programação do 2º Evento](https://www.even3.com.br/holidaycode/)
 
+Programação do 3º Evento (aguarde ....)
+
 [Facebook](https://www.facebook.com/eventoholidaycode)
 
 [Intagram](https://www.instagram.com/eventoholidaycode?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
