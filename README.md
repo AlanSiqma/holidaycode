@@ -15,7 +15,7 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Programação do 1º Evento](https://alansiqma.github.io/eventos/2024/02/08/holidaycode.html)
 
-Programação do 2º Evento (aguarde...)
+[Programação do 2º Evento](https://www.even3.com.br/holidaycode/)
 
 [Facebook](https://www.facebook.com/eventoholidaycode)
 
